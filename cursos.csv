@@ -1,0 +1,9 @@
+Curso_ID,Nombre del curso,Departamento,Cupos ocupados,Cupos disponibles,Cupo maximo,Estado,Fecha de cierre
+101,Finanzas Pesonales,finanzas,1,19,20,abierto,2025-12-31
+102,Higiene del Sueño,rh,1,24,25,abierto,2026-01-10
+103,Excel Básico,gestión,0,0,0,inactivo,2025-12-31
+104,Excel Intermedio,gestión,1,15,16,abierto,2026-01-15
+105,Técnicas de Relajación,rh,2,28,30,abierto,2026-01-15
+106,Power BI Básico,gestión,0,10,10,abierto,2025-12-25
+107,Better sleeping,rh,0,15,15,abierto,2026-01-09
+108,Gestión de tiempo,gestión,0,8,8,abierto,2026-01-05

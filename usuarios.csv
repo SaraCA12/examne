@@ -1,0 +1,7 @@
+Usuario,Contrasena,Rol,Cursos
+administrador,Hola1234,ADMIN,0
+juan.perez,JuanPass456,STUDENT,1
+sara.lopez,SaraPass789,STUDENT,2
+carlos.yepes,CarlosPass321,STUDENT,1
+laura.toscana,LauraPass654,STUDENT,1
+maria.cano,MariaPass654,STUDENT,0
